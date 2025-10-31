@@ -11,4 +11,4 @@ Mi objetivo es crecer como desarrolladora y crear proyectos √∫tiles y bien dise√
 Java | XML | HTML | GitHub
 
 ## Contacto
--  [LinkedIn]([www.linkedin.com/in/mariana-quiroz-bedoya-3b8b85390](https://www.linkedin.com/in/mariana-quiroz-bedoya-3b8b85390/?trk=public-profile-join-page))
+- [LinkedIn](https://www.linkedin.com/in/mariana-quiroz-bedoya-3b8b85390)
