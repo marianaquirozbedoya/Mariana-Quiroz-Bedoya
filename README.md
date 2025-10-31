@@ -4,9 +4,9 @@
 💻 Me apasiona el desarrollo web y estoy aprendiendo a crear sitios y aplicaciones modernas.
 
 ## Sobre mí
-Tengo 18 años
-Me gusta aprender nuevas tecnologías y mejorar mis habilidades en desarrollo web.  
-Mi objetivo es crecer como desarrolladora y crear proyectos útiles y bien diseñados.
+Tengo 18 años.  
+Me gusta aprender nuevas tecnologías y mejorar mis habilidades en programación.  
+Busco seguir creciendo como desarrolladora y crear proyectos útiles y bien estructurados.
 
 ## Tecnologías que uso
 Java | XML | HTML | GitHub
