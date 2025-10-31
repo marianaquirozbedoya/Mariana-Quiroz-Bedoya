@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mariana Quiroz Bedoya
 
 🎓 Estudiante del **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.  
-💻 Me apasiona el desarrollo web y estoy aprendiendo a crear sitios y aplicaciones modernas.
+💻 Me interesa el desarrollo web y estoy aprendiendo a crear sitios y aplicaciones modernas.
 
 ## Sobre mí
 Tengo 18 años.  
